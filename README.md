@@ -122,27 +122,6 @@ Cinematic-Fire-Engine/
 
 ---
 
-## ✨ Highlights
-
-* Fully real-time
-* Gesture velocity filtering
-* Dual-hand independent intensities
-* Surge burst physics
-* High-intensity glow blending
-* Cinematic dark mode
-
----
-
-## 📈 Future Upgrades
-
-* WebGL version with shader pipeline
-* Audio reactive energy
-* Depth-based distortion
-* WebGPU renderer
-* Multiplayer gesture battle mode
-
----
-
 </div>
 
 <div align="center">
