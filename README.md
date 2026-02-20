@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/[STATUS-LIVE](https://1sarthak7.github.io/fire-engine/)-00ffcc?style=for-the-badge&logo=github&logoColor=black" />
 <img src="https://img.shields.io/badge/BUILT%20WITH-JavaScript-black?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/AI-MediaPipe-orange?style=for-the-badge&logo=google" />
 <img src="https://img.shields.io/badge/RENDERING-Canvas%202D-blue?style=for-the-badge" />
