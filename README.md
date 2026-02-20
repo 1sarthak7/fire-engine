@@ -38,9 +38,8 @@ Control Fire, Ice, Lightning, Red Energy, and Blue Energy directly through gestu
 ---
 <div align="center">
   
-## 🚀 Overview
+##  Overview
 
-This system uses:
 
 * Real-time webcam input
 * MediaPipe Hands tracking
@@ -53,20 +52,20 @@ This system uses:
 
 ##  Core Powers
 
-### 1️⃣ Fire + Ice Mode
+###  Fire + Ice Mode
 
 * Left Hand → Fire Energy
 * Right Hand → Ice Energy
 * Pinch Gesture → Energy Drawing Mode
 * Open Palm → Surge Burst
 
-### 2️⃣ Lightning Mode
+###  Lightning Mode
 
 * Open Hand → Lightning Storm Activation
 * Finger Tips → Bolt Spawning
 * Multi-pass glow with blur simulation
 
-### 3️⃣ Red + Blue Energy Mode
+###  Red + Blue Energy Mode
 
 * Left Hand → Red Aura
 * Right Hand → Blue Aura
@@ -92,7 +91,7 @@ This system uses:
 ---
 
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Cinematic-Fire-Engine/
@@ -103,7 +102,7 @@ Cinematic-Fire-Engine/
 
 ---
 
-## ⚙️ How To Run
+##  How To Run
 
 1. Clone the repository
 2. Open `index.html` in a modern browser
